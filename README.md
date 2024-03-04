@@ -7,3 +7,7 @@ Google Translator is a simple GUI application built using Python and Tkinter tha
 - Translate text from one language to another
 - Select source and destination languages using combo boxes
 - Display translated text in a user-friendly interface
+
+## Screenshots
+
+![Image]("C:\Users\NIKITHA\Pictures\Screenshots\Screenshot 2024-03-04 111454.png")
