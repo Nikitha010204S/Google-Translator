@@ -11,4 +11,4 @@ Google Translator is a simple GUI application built using Python and Tkinter tha
 
 ## Screenshot
 
-![Uploading Screenshot 2024-03-04 111454.png…]()
+![Screenshot 2024-03-04 111454](https://github.com/Nikitha010204S/Google-Translator/assets/153417079/68bac528-a04b-4b5f-a5d8-5d1cd589f0b6)
